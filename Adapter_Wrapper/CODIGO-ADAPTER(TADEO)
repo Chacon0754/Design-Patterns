@@ -1,0 +1,43 @@
+using System;
+
+// Interfaz esperada por el cliente
+public interface IEnchufe
+{
+    void Conectar();
+}
+
+// Clase existente incompatible
+public class EnchufeEuropeo
+{
+    public void ConectarEuropeo()
+    {
+        Console.WriteLine("Enchufe europeo conectado.");
+    }
+}
+
+// Adapter que permite usar EnchufeEuropeo como IEnchufe
+public class AdaptadorEuropeo : IEnchufe
+{
+    private EnchufeEuropeo _enchufeEuropeo;
+
+    public AdaptadorEuropeo(EnchufeEuropeo enchufe)
+    {
+        _enchufeEuropeo = enchufe;
+    }
+
+    public void Conectar()
+    {
+        _enchufeEuropeo.ConectarEuropeo();
+    }
+}
+
+// Cliente que usa IEnchufe
+class Program
+{
+    static void Main()
+    {
+        // Usamos el adaptador para conectar un enchufe europeo
+        IEnchufe enchufe = new AdaptadorEuropeo(new EnchufeEuropeo());
+        enchufe.Conectar(); // Salida: "Enchufe europeo conectado."
+    }
+}
