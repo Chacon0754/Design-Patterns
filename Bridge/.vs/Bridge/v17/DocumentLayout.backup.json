@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chaco\\OneDrive\\Documentos\\ICC\\Semestre 2024-B\\POOA\\Parcial 2\\Design-Patterns\\Bridge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F09F2FB-2590-467B-9C60-DDB084B7B2E7}|Bridge\\Bridge.csproj|c:\\users\\chaco\\onedrive\\documentos\\icc\\semestre 2024-b\\pooa\\parcial 2\\design-patterns\\bridge\\bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F09F2FB-2590-467B-9C60-DDB084B7B2E7}|Bridge\\Bridge.csproj|solutionrelative:bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F09F2FB-2590-467B-9C60-DDB084B7B2E7}|Bridge\\Bridge.csproj|c:\\users\\chaco\\onedrive\\documentos\\icc\\semestre 2024-b\\pooa\\parcial 2\\design-patterns\\bridge\\bridge\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F09F2FB-2590-467B-9C60-DDB084B7B2E7}|Bridge\\Bridge.csproj|solutionrelative:bridge\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F09F2FB-2590-467B-9C60-DDB084B7B2E7}|Bridge\\Bridge.csproj|c:\\users\\chaco\\onedrive\\documentos\\icc\\semestre 2024-b\\pooa\\parcial 2\\design-patterns\\bridge\\bridge\\dibujowindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F09F2FB-2590-467B-9C60-DDB084B7B2E7}|Bridge\\Bridge.csproj|solutionrelative:bridge\\dibujowindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F09F2FB-2590-467B-9C60-DDB084B7B2E7}|Bridge\\Bridge.csproj|c:\\users\\chaco\\onedrive\\documentos\\icc\\semestre 2024-b\\pooa\\parcial 2\\design-patterns\\bridge\\bridge\\dibujoimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F09F2FB-2590-467B-9C60-DDB084B7B2E7}|Bridge\\Bridge.csproj|solutionrelative:bridge\\dibujoimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DibujoImplementacion.cs",
+              "DocumentMoniker": "C:\\Users\\chaco\\OneDrive\\Documentos\\ICC\\Semestre 2024-B\\POOA\\Parcial 2\\Design-Patterns\\Bridge\\Bridge\\DibujoImplementacion.cs",
+              "RelativeDocumentMoniker": "Bridge\\DibujoImplementacion.cs",
+              "ToolTip": "C:\\Users\\chaco\\OneDrive\\Documentos\\ICC\\Semestre 2024-B\\POOA\\Parcial 2\\Design-Patterns\\Bridge\\Bridge\\DibujoImplementacion.cs",
+              "RelativeToolTip": "Bridge\\DibujoImplementacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T16:42:03.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DibujoWindows.cs",
+              "DocumentMoniker": "C:\\Users\\chaco\\OneDrive\\Documentos\\ICC\\Semestre 2024-B\\POOA\\Parcial 2\\Design-Patterns\\Bridge\\Bridge\\DibujoWindows.cs",
+              "RelativeDocumentMoniker": "Bridge\\DibujoWindows.cs",
+              "ToolTip": "C:\\Users\\chaco\\OneDrive\\Documentos\\ICC\\Semestre 2024-B\\POOA\\Parcial 2\\Design-Patterns\\Bridge\\Bridge\\DibujoWindows.cs",
+              "RelativeToolTip": "Bridge\\DibujoWindows.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T16:41:15.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\chaco\\OneDrive\\Documentos\\ICC\\Semestre 2024-B\\POOA\\Parcial 2\\Design-Patterns\\Bridge\\Bridge\\Circulo.cs",
+              "RelativeDocumentMoniker": "Bridge\\Circulo.cs",
+              "ToolTip": "C:\\Users\\chaco\\OneDrive\\Documentos\\ICC\\Semestre 2024-B\\POOA\\Parcial 2\\Design-Patterns\\Bridge\\Bridge\\Circulo.cs",
+              "RelativeToolTip": "Bridge\\Circulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T16:41:11.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chaco\\OneDrive\\Documentos\\ICC\\Semestre 2024-B\\POOA\\Parcial 2\\Design-Patterns\\Bridge\\Bridge\\Program.cs",
+              "RelativeDocumentMoniker": "Bridge\\Program.cs",
+              "ToolTip": "C:\\Users\\chaco\\OneDrive\\Documentos\\ICC\\Semestre 2024-B\\POOA\\Parcial 2\\Design-Patterns\\Bridge\\Bridge\\Program.cs",
+              "RelativeToolTip": "Bridge\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:37:21.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

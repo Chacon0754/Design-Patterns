@@ -1,0 +1,29 @@
+C:\Users\lujah\OneDrive\Escritorio\6to S\Lenguajes de Programacion IV\Unidad II\EjemploCommand\EjemploCommand\bin\Debug\net8.0\EjemploCommand.exe
+C:\Users\lujah\OneDrive\Escritorio\6to S\Lenguajes de Programacion IV\Unidad II\EjemploCommand\EjemploCommand\bin\Debug\net8.0\EjemploCommand.deps.json
+C:\Users\lujah\OneDrive\Escritorio\6to S\Lenguajes de Programacion IV\Unidad II\EjemploCommand\EjemploCommand\bin\Debug\net8.0\EjemploCommand.runtimeconfig.json
+C:\Users\lujah\OneDrive\Escritorio\6to S\Lenguajes de Programacion IV\Unidad II\EjemploCommand\EjemploCommand\bin\Debug\net8.0\EjemploCommand.dll
+C:\Users\lujah\OneDrive\Escritorio\6to S\Lenguajes de Programacion IV\Unidad II\EjemploCommand\EjemploCommand\bin\Debug\net8.0\EjemploCommand.pdb
+C:\Users\lujah\OneDrive\Escritorio\6to S\Lenguajes de Programacion IV\Unidad II\EjemploCommand\EjemploCommand\obj\Debug\net8.0\EjemploCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lujah\OneDrive\Escritorio\6to S\Lenguajes de Programacion IV\Unidad II\EjemploCommand\EjemploCommand\obj\Debug\net8.0\EjemploCommand.AssemblyInfoInputs.cache
+C:\Users\lujah\OneDrive\Escritorio\6to S\Lenguajes de Programacion IV\Unidad II\EjemploCommand\EjemploCommand\obj\Debug\net8.0\EjemploCommand.AssemblyInfo.cs
+C:\Users\lujah\OneDrive\Escritorio\6to S\Lenguajes de Programacion IV\Unidad II\EjemploCommand\EjemploCommand\obj\Debug\net8.0\EjemploCommand.csproj.CoreCompileInputs.cache
+C:\Users\lujah\OneDrive\Escritorio\6to S\Lenguajes de Programacion IV\Unidad II\EjemploCommand\EjemploCommand\obj\Debug\net8.0\EjemploCommand.dll
+C:\Users\lujah\OneDrive\Escritorio\6to S\Lenguajes de Programacion IV\Unidad II\EjemploCommand\EjemploCommand\obj\Debug\net8.0\refint\EjemploCommand.dll
+C:\Users\lujah\OneDrive\Escritorio\6to S\Lenguajes de Programacion IV\Unidad II\EjemploCommand\EjemploCommand\obj\Debug\net8.0\EjemploCommand.pdb
+C:\Users\lujah\OneDrive\Escritorio\6to S\Lenguajes de Programacion IV\Unidad II\EjemploCommand\EjemploCommand\obj\Debug\net8.0\EjemploCommand.genruntimeconfig.cache
+C:\Users\lujah\OneDrive\Escritorio\6to S\Lenguajes de Programacion IV\Unidad II\EjemploCommand\EjemploCommand\obj\Debug\net8.0\ref\EjemploCommand.dll
+C:\Users\chaco\OneDrive\Documentos\ICC\Semestre 2024-B\POOA\Parcial 2\Design-Patterns\Command\EjemploCommand\bin\Debug\net8.0\EjemploCommand.exe
+C:\Users\chaco\OneDrive\Documentos\ICC\Semestre 2024-B\POOA\Parcial 2\Design-Patterns\Command\EjemploCommand\bin\Debug\net8.0\EjemploCommand.deps.json
+C:\Users\chaco\OneDrive\Documentos\ICC\Semestre 2024-B\POOA\Parcial 2\Design-Patterns\Command\EjemploCommand\bin\Debug\net8.0\EjemploCommand.runtimeconfig.json
+C:\Users\chaco\OneDrive\Documentos\ICC\Semestre 2024-B\POOA\Parcial 2\Design-Patterns\Command\EjemploCommand\bin\Debug\net8.0\EjemploCommand.dll
+C:\Users\chaco\OneDrive\Documentos\ICC\Semestre 2024-B\POOA\Parcial 2\Design-Patterns\Command\EjemploCommand\bin\Debug\net8.0\EjemploCommand.pdb
+C:\Users\chaco\OneDrive\Documentos\ICC\Semestre 2024-B\POOA\Parcial 2\Design-Patterns\Command\EjemploCommand\obj\Debug\net8.0\EjemploCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaco\OneDrive\Documentos\ICC\Semestre 2024-B\POOA\Parcial 2\Design-Patterns\Command\EjemploCommand\obj\Debug\net8.0\EjemploCommand.AssemblyInfoInputs.cache
+C:\Users\chaco\OneDrive\Documentos\ICC\Semestre 2024-B\POOA\Parcial 2\Design-Patterns\Command\EjemploCommand\obj\Debug\net8.0\EjemploCommand.AssemblyInfo.cs
+C:\Users\chaco\OneDrive\Documentos\ICC\Semestre 2024-B\POOA\Parcial 2\Design-Patterns\Command\EjemploCommand\obj\Debug\net8.0\EjemploCommand.csproj.CoreCompileInputs.cache
+C:\Users\chaco\OneDrive\Documentos\ICC\Semestre 2024-B\POOA\Parcial 2\Design-Patterns\Command\EjemploCommand\obj\Debug\net8.0\EjemploCommand.sourcelink.json
+C:\Users\chaco\OneDrive\Documentos\ICC\Semestre 2024-B\POOA\Parcial 2\Design-Patterns\Command\EjemploCommand\obj\Debug\net8.0\EjemploCommand.dll
+C:\Users\chaco\OneDrive\Documentos\ICC\Semestre 2024-B\POOA\Parcial 2\Design-Patterns\Command\EjemploCommand\obj\Debug\net8.0\refint\EjemploCommand.dll
+C:\Users\chaco\OneDrive\Documentos\ICC\Semestre 2024-B\POOA\Parcial 2\Design-Patterns\Command\EjemploCommand\obj\Debug\net8.0\EjemploCommand.pdb
+C:\Users\chaco\OneDrive\Documentos\ICC\Semestre 2024-B\POOA\Parcial 2\Design-Patterns\Command\EjemploCommand\obj\Debug\net8.0\EjemploCommand.genruntimeconfig.cache
+C:\Users\chaco\OneDrive\Documentos\ICC\Semestre 2024-B\POOA\Parcial 2\Design-Patterns\Command\EjemploCommand\obj\Debug\net8.0\ref\EjemploCommand.dll
